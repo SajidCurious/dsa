@@ -5,3 +5,4 @@ a = ["Banana","Mango","Pineapple"]
 
 for item in a:
     print(item)
+
