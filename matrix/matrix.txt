@@ -1,0 +1,15 @@
+A matrix is a two-dimensional (2D) data structure that organizes data in rows and columns, forming a grid-like structure. It is widely used in mathematics, computer science, and engineering to represent and manipulate data that has a tabular or grid-like format. In programming, a matrix is often implemented as a 2D array or a list of lists.
+
+Matrix Representation in Programming
+In most programming languages, a matrix is represented as a 2D array or a list of lists.
+
+# A 3x3 matrix
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+
+Here, matrix[0] refers to the first row [1, 2, 3].
+
+matrix[0][0] refers to the element 1 (first row, first column).
